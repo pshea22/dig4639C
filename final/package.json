@@ -1,0 +1,27 @@
+{
+  "name": "finalproj",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "@appbaseio/reactivesearch-native": "^0.5.0",
+    "appbase-js": "4.0.2-beta.5",
+    "expo-core": "3.0.1",
+    "native-base": "2.12.1",
+    "prop-types": "^15.6.0",
+    "react-native-action-button": "2.8.5",
+    "react-native-elements": "1.1.0",
+    "react-native-loading-spinner-overlay": "1.0.1",
+    "react-native-paper": "2.2.8",
+    "react-native-sortable-listview": "0.0.8",
+    "react-native-vector-icons": "6.4.2",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-timer-mixin": "^0.13.3",
+    "uuid": "3.3.2"
+  }
+}
